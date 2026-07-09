@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BlackFit - Transforme seu corpo, supere seus limites",
+  title: "BlackFit - Transforme seu corpo",
   description: "A academia que vai mudar a sua rotina. Estrutura completa, profissionais qualificados e um ambiente feito para quem busca resultados de verdade.",
 };
 
